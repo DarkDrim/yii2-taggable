@@ -1,5 +1,5 @@
 {
-    "name": "sjaakp/yii2-taggable",
+    "name": "darkdrim/yii2-taggable",
     "description": "Manage tags of ActiveRecord in Yii2.",
     "keywords": ["yii", "yii2", "extension", "widget", "behavior", "tag", "tags"],
     "type": "yii2-extension",
@@ -14,11 +14,11 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-jui": "*",
-        "bower-asset/jquery-tag-editor": "*"
+        "bower-asset/bootstrap-jquery-tags": "*"
     },
     "autoload": {
         "psr-4": {
-            "sjaakp\\taggable\\": ""
+            "darkdrim\\taggable\\": ""
         }
     }
 }
